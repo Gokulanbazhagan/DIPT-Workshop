@@ -1,8 +1,7 @@
 # DIPT-Workshop1
 #Original image:
 ```
-#Nmae:Gokularamanan k
-#Reg no:212222230040
+
 import cv2
 import numpy as np
 img=cv2.imread("down.jpg")
